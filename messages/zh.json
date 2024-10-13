@@ -1,52 +1,52 @@
 {
   "Product": {
-    "name": "Work Helper",
-    "solgan": "应届生求职，AI来全程助力。"
+    "name": "JobSprin",
+    "solgan": "今年毕业不求职，求职就找Sprin"
   },
   "LandingPage": {
     "Index": {
-      "title": "Work Helper"
+      "title": "JobSprin"
     },
     "Hero": {
-      "title": "AI辅助就业工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "AI辅助应届生求职平台",
+      "description": "逐场景协助您的求职。使用我们直观的工具和协作功能，提升您的求职表现。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "简历润色器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "简历润色师",
+        "description": "Star原则轻松润色项目经历。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "大厂资深HR",
+        "description": "一对一模拟评估面试过程。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "无领导小组讨论台",
+        "description": "临阵磨枪，不亮也光。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "求职吐槽区",
+        "description": "情绪价值提供满满当当。"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "运营",
+        "content": "JobSprin彻底改变了我的求职过程。大厂自身HR简直是一个革命性的工具！"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "销售",
+        "content": "Jobsprin的求职吐槽去让我能忘记求职过程中的痛苦。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "工程师",
+        "content": "AI辅助工具帮助我无数次克服了无领导小组讨论恐惧。强烈推荐！"
       }
     },
     "Header": {
@@ -66,15 +66,15 @@
       "helpCenter": "帮助中心",
       "tutorials": "教程",
       "contact": "联系我们",
-      "email": "support@scriptcraft.com",
-      "address1": "123 编剧大道",
+      "email": "19847410950@163.com",
+      "address1": "湖南科技大学第九教学楼",
       "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
+      "cta": "今天开始您的求职之旅",
       "startFreeTrial": "开始免费试用",
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
+      "title": "场景by场景，精心打造您的求职体验",
       "imageAlt": "ScriptCraft界面"
     }
   },
